@@ -1,2 +1,1 @@
-# DevOps
-learning devops through building projects
+#hello devops project
